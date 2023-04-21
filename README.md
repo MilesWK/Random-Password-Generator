@@ -74,3 +74,5 @@ Your random password is HAPPYmangopeach12!
 Press ↵ to get a new password or press "Ctrl + C" to quit the program.
 ```
 Of course, you most likely won't HAPPYmangopeach12! as your password, but you get the idea!
+# Support
+If you have any issues with this program, contact me at [https://replit.com/@MilesWK/MilesWK-V3](https://replit.com/@MilesWK/MilesWK-V3?v=1)
