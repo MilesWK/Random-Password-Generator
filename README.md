@@ -1,5 +1,5 @@
 # Random-Password-Generator-Python
-This is a program that will create a 3 word (one uppercase), 2 number, and 1 symbol password in Python! All program in this repository is under a MIT License. 
+This is a program that will create a 3 word (one uppercase), 2 number, and 1 symbol password in Python! This program is under a MIT License. 
 
 # Setup Instructions
 **Step 1:**
@@ -73,6 +73,6 @@ Save and run the program. You should get this in the console:
 Your random password is HAPPYmangopeach12!
 Press ↵ to get a new password or press "Ctrl + C" to quit the program.
 ```
-Of course, you most likely won't HAPPYmangopeach12! as your password, but you get the idea!
+Of course, you most likely won't get HAPPYmangopeach12! as your random password, but you get the idea!
 # Support
 If you have any issues with this program, contact me at [https://replit.com/@MilesWK/MilesWK-V3](https://replit.com/@MilesWK/MilesWK-V3?v=1)
