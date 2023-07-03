@@ -42,14 +42,14 @@ for line in Words_File:
 ```python
 #Putting all the symbols in symbols.txt into a list
 for line in Symbols_File:
-  Words.append(line.strip())
+  Symbols.append(line.strip())
 ```
 
 **Step 4:** Create a random password using the lists we created:
 ```python
 #Creating the password
 Password = choice(Words).upper() + choice(Words) + choice(Words) + choice(Numbers) + choice(Numbers) + choice(Symbols)
-print(colored("Your random password is ","blue") + colored(Password, "aqua")
+print(colored("Your random password is ","blue") + colored(Password, "aqua"))
 ```
 
 Here is all the code put together:
