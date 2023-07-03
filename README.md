@@ -74,9 +74,23 @@ for line in Words_File:
 
 #Putting all the symbols in symbols.txt into a list
 for line in Symbols_File:
-  Words.append(line.strip())
+  Symbols.append(line.strip())
 
 Password = choice(Words).upper() + choice(Words) + choice(Words) + choice(Numbers) + choice(Numbers) + choice(Symbols)
-print(colored("Your random password is ","blue") + colored(Password, "aqua")
+print(colored("Your random password is ","blue") + colored(Password, "aqua"))
 ```
 See the project files for symbols.txt and words.txt.
+
+To run this program in a Command Prompt/Terminal, enter this line of code to make sure the terminal doesn't close as soon as the program is done:
+```python
+input("Press enter to close")
+```
+or add a while True around the print like this:
+```python
+while True:
+  print(colored("Your random password is ","blue") + colored(Password, "aqua"))
+  input("Press enter to generate a new password")
+```
+
+Have fun with this program. Please note this program is under a MIT licence. 
+
